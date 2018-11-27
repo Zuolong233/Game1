@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<script src="generator.js"></script>
+	<script src="data.js"></script>
+	<title>老婆生成器Random waifu generator</title>
+</head>
+<body>
+	<h1>老婆生成器v0.01</h1>
+	<button type="button" onclick="startGenerator()">一键生成老婆</button>
+	<table>
+		<tr>
+			<td id="heightText">身高</td>
+			<td id="height">--</td>
+		</tr>
+		<tr>
+			<td id="weightText">体重</td>
+			<td id="weight">--</td>
+		</tr>
+		<tr>
+			<td id="cupsizeText">CUP</td>
+			<td id="cupsize">--</td>
+		</tr>
+		<tr>
+			<td id="skinText">肤色</td>
+			<td id="skin">--</td>
+		</tr>		
+		<tr hidden>
+			<td id="ageText">年龄</td>
+			<td id="age">--</td>
+		</tr>		
+		<tr>
+			<td id="hairstyleText">发型</td>
+			<td id="hairstyle">--</td>
+		</tr>
+		<tr>
+			<td id="hairColorText">发色</td>
+			<td id="hairColor">--</td>
+		</tr>		
+		<tr>
+			<td id="eyeColorText">瞳色</td>
+			<td id="eyeColor">--</td>
+		</tr>						
+		<tr>
+			<td id="attributeText">属性</td>
+			<td id="attribute">--</td>
+		</tr>		
+		<tr>
+			<td id="characterText">性格</td>
+			<td id="character">--</td>
+		</tr>	
+						
+	</table>
 
-You can use the [editor on GitHub](https://github.com/Zuolong233/Game1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zuolong233/Game1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	<br>
+	<a href="https://adnmb1.com/t/15788691">讨论地址</a>
+	<a href="https://github.com/reed-chan/Random-waifu-generater">Source</a>
+</body>
+</html>
